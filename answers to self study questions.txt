@@ -1,0 +1,28 @@
+Self-Study Questions
+
+1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Semantic HTML is the foundation of any web application. It’s the skeletal structure. Specifically, it’s organized code with a shared upon standard, structure and meaning. If none of this existed HTML code would have no universal meaning. Thank you W3C for creating an international standard, best practices for markup. 
+2. Name two big differences between display: block; and display: inline;.
+    1. Display:block likes it own space. When invoked it takes up the entire width of the page and disrupts the flow of content.
+    2. Display:inline takes up as much space as the content and can bee nested inside of other elements. 
+3. What are the 4 areas of the box model? (Starting from inside the element going out)
+    1. Content: what’s inside the box such as text/images
+    2. Padding: transparent area around the content
+    3. Border: goes around the padding and content — can be stylized.
+    4. Margin: transparent area outside the border spearing the box from page whitespace. 
+4. While using flexbox, what axis does the following property work on: align-items: center?
+	
+Cross Axis 
+5. Explain why git is valuable to a team of developers.
+
+- New code can easily be committed;
+
+- Version branches can easily be compared and merged. This is important because each branch functions in an isolated environment, ensuring high quality production in the master branch.
+
+- Allows for easier and faster edits of code.
+
+- Distributed development
+
+- Pull requests (to merge branches, discuss work)
+ 
